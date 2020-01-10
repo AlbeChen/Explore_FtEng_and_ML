@@ -1,5 +1,5 @@
 ## Exploring Data Analytics, Cleaning, and Modeling
-**The independent learning process of working with a dataset** <br/>
+**The independent learning of the process from data acquisition to conclusion and results** <br/>
 
 **Language:** Python &emsp;&emsp;&emsp;**Libraries:** pandas, sklearn, seaborn, numpy
 
