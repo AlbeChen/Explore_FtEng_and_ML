@@ -1,5 +1,5 @@
-## Kaggle's Titanic Challenge
-**The independent learning process of analyzing, cleaning, and modeling a dataset** <br/>
+## Exploring Data Analytics, Cleaning, and Modeling
+**The independent learning process of working with a dataset** <br/>
 
 **Language:** Python &emsp;&emsp;&emsp;**Libraries:** pandas, sklearn, seaborn, numpy
 
