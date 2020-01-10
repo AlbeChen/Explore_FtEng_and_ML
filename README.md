@@ -1,5 +1,5 @@
 ## Exploring Data Processing and Modeling Methods
-**A learning exercise on the methods in processing and modeling a dataset to extracting knowledge and insights** <br/>
+**A learning exercise on the methods in processing and modeling a dataset to extract knowledge and insights** <br/>
 
 **Language:** Python &emsp;&emsp;&emsp;**Libraries:** pandas, sklearn, seaborn, numpy
 
