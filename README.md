@@ -1,4 +1,4 @@
-## Exploring Data Processing and Modeling Methods
+## Exploring Feature Engineering and Machine Learning Methods
 **A learning exercise on the methods in processing and modeling a dataset to extract knowledge and insights** <br/>
 
 **Language:** Python &emsp;&emsp;&emsp;**Libraries:** pandas, sklearn, seaborn, numpy
